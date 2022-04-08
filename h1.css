@@ -1,6 +1,6 @@
 
 .one{
-    font-size: 2vw;
+    font-size: 4vw;
     font-family:Merienda;
     color:antiquewhite;
     padding: 30px;
@@ -23,7 +23,7 @@
     position: relative;
     text-align: center;
     text-shadow: #0b3c0f96; 
-    font-size: 2vw;
+    font-size: 4vw;
     left: 900px;top: 400px;
     font-family: Indie Flower;
     color: antiquewhite;
@@ -34,7 +34,7 @@
     position: relative;
     text-align: center;
     left: 400px;top: 600px;
-    font-size: 2vw;
+    font-size:4vw;
    font-family: Indie Flower;
    color: wheat;
    
@@ -46,7 +46,7 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: #0b3c0f96; 
     left: 800px;top: 700px;
-    font-size: 2vw;
+    font-size: 4vw;
     color: beige;
     text-decoration: none;
     
@@ -56,7 +56,7 @@
     position: relative;
     text-align: center;
     text-shadow: #0b3c0f96; 
-    font-size: 2vw;
+    font-size: 4vw;
     left: 800px;top: 500px;
     font-family: Indie Flower;
     color: antiquewhite;
