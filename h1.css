@@ -6,7 +6,7 @@
     padding: 30px;
     outline-style: double;
     outline-width: 10px;
-    position: absolute ;
+    position: relative ;
     outline-color: rgb(160, 163, 211);
     outline-offset: 20px;
     border: dotted 5px  #585e5896 ;
@@ -20,7 +20,7 @@
     
 }
 .two{
-    position: absolute;
+    position: relative;
     text-align: center;
     text-shadow: #0b3c0f96; 
     font-size: 2vw;
@@ -31,7 +31,7 @@
 }
 
 .three{
-    position: absolute;
+    position: relative;
     text-align: center;
     left: 400px;top: 600px;
     font-size: 2vw;
@@ -41,7 +41,7 @@
 }
 
 .four{
-    position: absolute;
+    position: relative;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: #0b3c0f96; 
@@ -53,7 +53,7 @@
     
 }
 .five{
-    position: absolute;
+    position: relative;
     text-align: center;
     text-shadow: #0b3c0f96; 
     font-size: 2vw;
